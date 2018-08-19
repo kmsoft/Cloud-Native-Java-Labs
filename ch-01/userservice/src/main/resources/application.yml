@@ -1,0 +1,8 @@
+spring:
+  datasource:
+      driverClassName: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost/test
+  jpa:
+      database-platform: org.hibernate.dialect.MySQLDialect
+ 
+ 
